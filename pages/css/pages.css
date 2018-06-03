@@ -28,7 +28,7 @@ h1 {
     padding: 5px;
     margin-right: 250px;
 }
-/* Concurrentie*/
+/* CONCURRENTIE*/
 .Pos {
     Color: Green;
 }
@@ -40,7 +40,42 @@ h1 {
 /* VISUAL STYLEGUIDE*/
 
 
+/*LOGO*/
+.Logo {
+    background-color: grey;
+    width: 300px;
+}
 
+.Logos {
+    display: block;
+}
+
+/*KLEUREN*/
+.Kleuren {
+    float: left;
+    margin-right: 10px;
+}
+
+. Groen { background-color: rgb(92,209,143);}
+. Fel Groen { background: rgb(0,255,109);}
+. Donker Groen { background: rgb(0,126,50);}
+. Blauw { background: rgb(0,154,243);}
+. Geel { background: rgb(255,255,0);}
+. Grijs { background: rgb(255,255,255);}
+. Donker Grijs { background: rgb(112,112,112);}
+. Wit { background: rgb(255,255,255);}
+. Zwart { background: rgb(0,0,0);}
+/*LETTERTYPE*/
+.Geometos {
+    font-family: Geometos;
+    font-size: 60pt;
+}
+.Karla {
+    font-family: Karla Regular;
+    font-size: 60pt;
+}
+
+/*KNOPPEN*/
 
 
 /* Voeg jouw css hieraan toe */

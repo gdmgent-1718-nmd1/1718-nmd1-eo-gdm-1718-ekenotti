@@ -56,12 +56,13 @@ h1 {
     margin-right: 10px;
     img.align: left;
 /*LETTERTYPE*/
-.Geometos {
+
+geometos
     font-family: Geometos;
     font-size: 60pt;
 }
 .Karla {
-    font-family: Karla Regular;
+    font-family: Karla;
     font-size: 60pt;
 }
 

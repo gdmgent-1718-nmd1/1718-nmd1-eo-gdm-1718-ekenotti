@@ -68,4 +68,12 @@ h1 {
 /*KNOPPEN*/
 
 
+/*NAVIGATIE*/
+div.navigatie {
+    width: auto;
+    height: auto;
+    border-color: green;
+    background-color:black;
+}
+
 /* Voeg jouw css hieraan toe */

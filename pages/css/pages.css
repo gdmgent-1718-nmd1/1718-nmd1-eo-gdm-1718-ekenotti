@@ -54,10 +54,9 @@ h1 {
 .Kleuren {
     float: left;
     margin-right: 10px;
-    img.align: left;
 /*LETTERTYPE*/
 
-geometos
+.Geometos {
     font-family: Geometos;
     font-size: 60pt;
 }
@@ -68,7 +67,11 @@ geometos
 
 /*KNOPPEN*/
 
+.knop1 {
+    background-color: green;
+    color: white;
 
+}
 /*NAVIGATIE*/
 div.navigatie {
     width: auto;
